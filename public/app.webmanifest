@@ -1,0 +1,22 @@
+{
+    "name": "GrievanceForum Web App",
+    "short_name": "GrievanceForum",
+    "description": "Progressive Web App where you can post your grievance and feedbacks of the BIT Community.",
+    "icons": [
+      {
+        "src": "https://www.kindpng.com/picc/m/107-1076351_snowflakes-png-blue-snowflake-png-clipart-transparent-png.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "https://www.kindpng.com/picc/m/107-1076351_snowflakes-png-blue-snowflake-png-clipart-transparent-png.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://grievanceforum.up.railway.app",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34"
+  }
+  
